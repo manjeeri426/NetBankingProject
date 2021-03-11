@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Net_Banking" duration-ms="41549" started-at="2021-03-10T16:00:51 PST" finished-at="2021-03-10T16:01:33 PST">
+    <groups>
+    </groups>
+    <test name="Banking_App" duration-ms="41549" started-at="2021-03-10T16:00:51 PST" finished-at="2021-03-10T16:01:33 PST">
+      <class name="com.netbanking.TestCases.TC_Delete_Customer_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.netbanking.TestCases.TC_Delete_Customer_004@e874448]" name="setup" is-config="true" duration-ms="18111" started-at="2021-03-10T16:00:52 PST" finished-at="2021-03-10T16:01:10 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.netbanking.TestCases.TC_Delete_Customer_004@e874448]" name="login" duration-ms="21021" started-at="2021-03-10T16:01:10 PST" finished-at="2021-03-10T16:01:31 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.netbanking.TestCases.TC_Delete_Customer_004@e874448]" name="teardown" is-config="true" duration-ms="1545" started-at="2021-03-10T16:01:31 PST" finished-at="2021-03-10T16:01:33 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.netbanking.TestCases.TC_Delete_Customer_004 -->
+    </test> <!-- Banking_App -->
+  </suite> <!-- Net_Banking -->
+</testng-results>

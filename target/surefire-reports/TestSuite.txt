@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.865 s <<< FAILURE! - in TestSuite
+com.netbanking.TestCases.TC_Delete_Customer_004.login  Time elapsed: 0.006 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.netbanking.TestCases.TC_Delete_Customer_004.login(TC_Delete_Customer_004.java:16)
+

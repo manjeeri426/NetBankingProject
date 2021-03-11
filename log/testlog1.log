@@ -1,0 +1,95 @@
+2021-03-03 21:56:32,613 [main] INFO NetBankingProjet - url is opened
+2021-03-03 21:56:32,935 [main] INFO NetBankingProjet - entered username
+2021-03-03 21:56:33,094 [main] INFO NetBankingProjet - entered password
+2021-03-03 21:56:38,475 [main] INFO NetBankingProjet - login test passed
+2021-03-03 23:21:03,137 [main] INFO NetBankingProjet - url is opened
+2021-03-03 23:21:04,846 [main] INFO NetBankingProjet - entered username
+2021-03-03 23:21:04,979 [main] INFO NetBankingProjet - entered password
+2021-03-03 23:21:07,927 [main] INFO NetBankingProjet - login test passed
+2021-03-03 23:22:58,904 [main] INFO NetBankingProjet - url is opened
+2021-03-03 23:23:00,934 [main] INFO NetBankingProjet - entered username
+2021-03-03 23:23:01,139 [main] INFO NetBankingProjet - entered password
+2021-03-03 23:23:06,845 [main] INFO NetBankingProjet - login test passed
+2021-03-03 23:27:46,685 [main] INFO NetBankingProjet - url is opened
+2021-03-03 23:27:46,869 [main] INFO NetBankingProjet - entered username
+2021-03-03 23:27:46,925 [main] INFO NetBankingProjet - entered password
+2021-03-03 23:27:57,226 [main] INFO NetBankingProjet - login test passed
+2021-03-06 15:50:00,457 [main] INFO NetBankingProjet - url is opened
+2021-03-06 15:50:01,755 [main] INFO NetBankingProjet - entered username
+2021-03-06 15:50:01,890 [main] INFO NetBankingProjet - entered password
+2021-03-06 15:50:05,011 [main] INFO NetBankingProjet - login test passed
+2021-03-06 15:50:58,023 [main] INFO NetBankingProjet - user name provided
+2021-03-06 15:50:58,166 [main] INFO NetBankingProjet - password provided
+2021-03-06 15:51:04,782 [main] INFO NetBankingProjet - Login passed
+2021-03-06 15:51:13,469 [main] INFO NetBankingProjet - user name provided
+2021-03-06 15:51:13,583 [main] INFO NetBankingProjet - password provided
+2021-03-06 15:51:18,494 [main] INFO NetBankingProjet - Login passed
+2021-03-06 15:51:26,499 [main] INFO NetBankingProjet - user name provided
+2021-03-06 15:51:26,642 [main] INFO NetBankingProjet - password provided
+2021-03-06 15:51:31,238 [main] INFO NetBankingProjet - Login passed
+2021-03-06 15:51:38,018 [main] INFO NetBankingProjet - user name provided
+2021-03-06 15:51:38,168 [main] INFO NetBankingProjet - password provided
+2021-03-06 15:51:42,933 [main] INFO NetBankingProjet - Login passed
+2021-03-06 15:51:50,254 [main] INFO NetBankingProjet - user name provided
+2021-03-06 15:51:50,382 [main] INFO NetBankingProjet - password provided
+2021-03-06 15:51:55,389 [main] INFO NetBankingProjet - Login passed
+2021-03-06 16:04:46,439 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:04:46,723 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:04:53,122 [main] INFO NetBankingProjet - Login passed
+2021-03-06 16:05:00,400 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:05:00,541 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:05:05,393 [main] INFO NetBankingProjet - Login passed
+2021-03-06 16:05:12,555 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:05:12,710 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:05:18,196 [main] INFO NetBankingProjet - Login passed
+2021-03-06 16:05:26,212 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:05:26,356 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:05:31,117 [main] INFO NetBankingProjet - Login passed
+2021-03-06 16:05:40,389 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:05:40,519 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:05:45,320 [main] INFO NetBankingProjet - Login passed
+2021-03-06 16:14:03,723 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:14:03,862 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:14:10,734 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:14:10,878 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:14:17,622 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:14:17,762 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:14:24,001 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:14:24,139 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:14:30,435 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:14:30,626 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:18:00,759 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:18:01,013 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:18:07,817 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:18:07,968 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:18:14,643 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:18:14,792 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:18:21,161 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:18:21,290 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:18:28,097 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:18:28,250 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:20:00,609 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:20:00,772 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:20:07,553 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:20:07,695 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:20:13,219 [main] INFO NetBankingProjet - Login passed
+2021-03-06 16:20:22,255 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:20:22,393 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:20:29,975 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:20:30,184 [main] INFO NetBankingProjet - password provided
+2021-03-06 16:20:36,001 [main] INFO NetBankingProjet - Login passed
+2021-03-06 16:20:43,223 [main] INFO NetBankingProjet - user name provided
+2021-03-06 16:20:43,373 [main] INFO NetBankingProjet - password provided
+2021-03-06 19:58:03,295 [main] INFO NetBankingProjet - url is opened
+2021-03-06 19:58:04,069 [main] INFO NetBankingProjet - entered username
+2021-03-06 19:58:04,249 [main] INFO NetBankingProjet - entered password
+2021-03-06 19:58:06,999 [main] INFO NetBankingProjet - login test passed
+2021-03-06 19:58:26,394 [main] INFO NetBankingProjet - user name provided
+2021-03-06 19:58:26,524 [main] INFO NetBankingProjet - password provided
+2021-03-09 12:06:02,749 [main] INFO NetBankingProjet - test passed
+2021-03-09 12:23:39,643 [main] INFO NetBankingProjet - test passed
+2021-03-10 10:40:26,460 [main] INFO NetBankingProjet - test passed
+2021-03-10 10:43:33,447 [main] INFO NetBankingProjet - test passed
+2021-03-10 11:05:31,796 [main] INFO NetBankingProjet - test passed
+2021-03-10 15:40:19,241 [main] INFO NetBankingProjet - test passed
+2021-03-10 15:51:50,274 [main] INFO NetBankingProjet - test passed
